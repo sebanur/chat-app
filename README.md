@@ -1,17 +1,45 @@
-# React + Vite
+# 💬 Chat-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chat-App is a modern real-time messaging application built with React and Firebase. It provides a seamless communication experience through room-based conversations, user authentication, and a responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Project Overview
 
-## React Compiler
+This project was developed to practice real-time communication, Firebase integration, and modern React application architecture.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🚀 Key Features
 
-## Expanding the ESLint configuration
+- 💬 Real-time messaging with Cloud Firestore
+- 👤 Secure user authentication with Firebase
+- 🏠 Room-based chat system
+- 🔄 Instant message updates
+- 📱 Responsive and user-friendly interface
+- ⚡ Fast and smooth user experience
+- 🔔 Interactive notifications with React Toastify
+- 🧩 Component-based React architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# chat-app
+---
+
+## 🛠️ Technologies Used
+
+- **React.js** – Frontend development
+- **JavaScript (ES6+)** – Application functionality
+- **Firebase Authentication** – User authentication
+- **Cloud Firestore** – Real-time database
+- **React Router DOM** – Page navigation
+- **Tailwind CSS** – Responsive UI design
+- **React Toastify** – Toast notifications
+- **Vite** – Development and build tool
+
+---
+
+## 🎯 Project Purpose
+
+The main goal of this project is to improve practical skills in React development, Firebase Authentication, real-time database management, and building interactive messaging applications.
+
+It also focuses on creating reusable components, managing user interactions, and delivering a modern, responsive chat experience.
+
+### 💬 Application Preview
+
+![](chat-app.gif)
